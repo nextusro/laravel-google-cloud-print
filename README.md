@@ -1,4 +1,4 @@
-# Google Cloud Print service for Laravel 6
+# Google Cloud Print service for Laravel 8
 
 ## Install
 
